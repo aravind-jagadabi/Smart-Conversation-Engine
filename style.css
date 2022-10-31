@@ -19,7 +19,7 @@ body{
   width: 370px;
   padding: 25px 30px;
   border-radius: 7px;
-  background: #fff;
+  background: #7B8DA2;
   box-shadow: 7px 7px 20px rgba(0,0,0,0.05);
 }
 .wrapper header{
@@ -89,11 +89,11 @@ form button{
   font-size: 17px;
   cursor: pointer;
   margin-top: 10px;
-  background: #675AFE;
+  background: #ADB1FF;
   transition: 0.3s ease;
 }
 form button:hover{
-  background: #4534fe;
+  background: #675AFE;
 }
 
 @media(max-width: 400px){
