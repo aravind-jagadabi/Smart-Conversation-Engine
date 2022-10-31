@@ -4,7 +4,6 @@ speechBtn = document.querySelector("button");
 
 let synth = speechSynthesis,
 isSpeaking = true;
-
 voices();
 
 function voices(){
