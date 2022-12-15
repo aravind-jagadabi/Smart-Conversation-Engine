@@ -6,3 +6,18 @@ and it is easy for them in a way that, they can directly type the text whatever 
 once, the message is typed, then click on communicate them, this application will deliver the voice message to the facing person, and the user is allowed to choose any
 language for delivering the voice message.
 
+# A sample video how this application will work
+
+
+
+
+https://user-images.githubusercontent.com/76617844/207964451-2a6c070c-ab64-4978-9adb-a99cae2bba16.mp4
+
+
+Some of the screenshots of the Application.
+
+![image](https://user-images.githubusercontent.com/76617844/207964718-d71c5b45-1829-4bcb-97f1-87b23144cf88.png)
+
+We can choose any language to Communicate with People.
+
+![Screenshot (282)](https://user-images.githubusercontent.com/76617844/207964956-6acc92d1-48e9-4625-85a4-fe3533daf7cd.png)
